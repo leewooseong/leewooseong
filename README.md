@@ -1,8 +1,5 @@
 # Lee Woo Seong ☀
 
-I'm studying to learn why
-
-### Studying..
 <strong>current..</strong>
 <br>html/css, javascript, react
 
