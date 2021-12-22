@@ -1,9 +1,9 @@
 # Lee Woo Seong ☀
 
-<strong>current..</strong>
+<strong>curren🛫</strong>
 <br>html/css, javascript, react
 
-<strong>will be...</strong>
+<strong>will be🧳</strong>
 <br>next.js, redux, node.js, sql, 
 
 📫 Contact me: useong1996@gmail.com
