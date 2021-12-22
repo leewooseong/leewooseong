@@ -1,6 +1,6 @@
 # Lee Woo Seong ☀
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haesoo9410">
+[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=lws1996)](https://solved.ac/lws1996)
 
 ### Studying..
 <strong>current..</strong>
