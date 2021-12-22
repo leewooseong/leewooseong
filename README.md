@@ -1,3 +1,7 @@
+# Lee Woo Seong ☀
+
+
+
 ### Studying..
 <strong>current..</strong>
 <br>html/css, javascript, react
@@ -6,6 +10,8 @@
 <br>next.js, redux, node.js, sql, 
 
 📫 Contact me: useong1996@gmail.com
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leewooseong&layout=compact)](https://github.com/leewooseong/github-readme-stats)
 
