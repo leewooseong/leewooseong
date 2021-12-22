@@ -1,6 +1,6 @@
-# Lee Woo Seong ☀
+# Lee Woo Seong ☁
 
-<strong>curren🛫</strong>
+<strong>current🛫</strong>
 <br>html/css, javascript, react
 
 <strong>will be🧳</strong>
