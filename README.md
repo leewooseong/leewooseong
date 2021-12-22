@@ -1,12 +1,9 @@
 ### Studying..
 <strong>current..</strong>
-<br>HTML/CSS
-<br>JavaScript
-<br>React
+<br>html/css, javascript, react
 
 <strong>will be...</strong>
-<br>Next.js
-<br>Node.js
+<br>next.js, redux, node.js, sql, 
 
 📫 Contact me: useong1996@gmail.com
 
