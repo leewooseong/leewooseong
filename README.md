@@ -3,6 +3,9 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={lws1996})](https://solved.ac/{lws1996})
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={leewooseong})](https://solved.ac/{leewooseong})
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=leewooseong)](https://solved.ac/leewooseong)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lws1996)](https://solved.ac/lws1996/)
+
+
 
 ### Studying..
 <strong>current..</strong>
