@@ -4,7 +4,7 @@
 <br>html/css, javascript, react
 
 <strong>will be🧳</strong>
-<br>next.js, redux, node.js, sql, 
+<br>next.js, redux, node.js, sql 
 
 📫 contact me: useong1996@gmail.com
 
