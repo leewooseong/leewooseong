@@ -1,14 +1,14 @@
 
 
 ### Studying..
-<strong>current..</strong>
-HTML/CSS
-JavaScript
-React
+<strong>current..</strong><br>
+<br>HTML/CSS
+<br>JavaScript
+<br>React
 
-<strong>will be...</strong>
-Next.js
-Node.js
+<strong>will be...</strong><br>
+<br>Next.js
+<br>Node.js
 
 📫 Contact me: useong1996@gmail.com
 
