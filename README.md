@@ -1,12 +1,10 @@
-
-
 ### Studying..
-<strong>current..</strong><br>
+<strong>current..</strong>
 <br>HTML/CSS
 <br>JavaScript
 <br>React
 
-<strong>will be...</strong><br>
+<strong>will be...</strong>
 <br>Next.js
 <br>Node.js
 
