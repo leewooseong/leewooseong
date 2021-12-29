@@ -1,10 +1,10 @@
 # Lee Woo Seong ☁
 
 <strong>current🛫</strong>
-<br>html/css, javascript, react
+<br>html/css, javascript, react, node.js
 
 <strong>will be🧳</strong>
-<br>next.js, redux, node.js, sql 
+<br>next.js, redux, sql, graphql 
 
 📫 contact: useong1996@gmail.com
 
