@@ -10,8 +10,12 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leewooseong&layout=compact)](https://github.com/leewooseong/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leewooseong&layout=compact)](https://github.com/leewooseong/github-readme-stats) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lws1996)](https://solved.ac/lws1996/)
+
+<!--
+![image](https://github.com/leewooseong/leewooseong/assets/42796944/ca70d115-a755-43b2-bb50-d707ccacee62)
+--!>
 <!--
 나를 표현할 수 있는 문구 3가지 이상 넣기?
 -> 한 가지를 적어도 추상적인 것 말고 수치로 말할 수 있는 것으로 얘기를 하자. 
