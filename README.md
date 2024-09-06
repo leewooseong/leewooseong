@@ -8,9 +8,9 @@
 
 📫 contact: useong1996@gmail.com
 
----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leewooseong&layout=compact)](https://github.com/leewooseong/github-readme-stats) 
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leewooseong&layout=compact)](https://github.com/leewooseong/github-readme-stats) --!>
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lws1996)](https://solved.ac/lws1996/) --!>
 
