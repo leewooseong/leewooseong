@@ -4,7 +4,6 @@
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
 
-<br>
 
 ### **:: FE Developer**
 
@@ -12,7 +11,7 @@
 🤓 → Prefer <strong>easy code to read</strong> <br>
 🗣️ → Prefer <strong>communication about skills</strong> with other people
 
-<br>
+
 
 <!-- 작성하고 바꿔놓기 -->
 
