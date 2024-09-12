@@ -6,11 +6,15 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
 
+<br>
+
 ### **:: FE Developer**
 
 📃 → Prefer <strong>document like code</strong> <br>
 🤓 → Prefer <strong>easy code to read</strong> <br>
 🗣️ → Prefer <strong>communication about skills</strong> with other people
+
+<br>
 
 <!-- 작성하고 바꿔놓기 -->
 
@@ -18,6 +22,8 @@
 
 ◽️ **Portfolio:** in the works..<br>
 ◽️ **Blog:** in the works..<br>
+
+<br>
 
 <!-- ◽️ **Portfolio:** [🔗 Link](https://scratched-cephalopod-eb9.notion.site/11db653cff404c93b682a31a7bb54cfe)<br>
 ◽️ **Blog:** [🔗 Link]()<br> -->
@@ -32,7 +38,7 @@
 
 ### **:: Contact me**
 
-◽️ Email: [useong1996@gmail.com](mailto:useong1996@gmail.com)
+◽ Email: [useong1996@gmail.com](mailto:useong1996@gmail.com)
 
 <!-- 자주 사용하는 언어 빈도 -->
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=leewooseong&layout=compact -->
