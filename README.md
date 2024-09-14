@@ -7,7 +7,7 @@
 
 ### **:: FE Developer**
 
-**📃 →** Prefer <strong>document like code</strong> <br>
+**📃 →** Prefer <strong>code like document</strong> <br>
 **🤓 →** Prefer <strong>easy code to read</strong> <br>
 **🗣️ →** Prefer <strong>communication about skills</strong> with other people
 
